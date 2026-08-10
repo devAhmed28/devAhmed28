@@ -129,6 +129,20 @@ A production-grade recruitment platform built with **ASP.NET Core 8**, following
 
 ---
 
+## 📈 Contribution Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 📅 Total Contributions | 63 (Jan 6 - Present) |
+| 🔥 Current Streak | 2 days (Aug 9 - Aug 10) |
+| ⚡ Longest Streak | 3 days (Jul 2 - Jul 4) |
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
