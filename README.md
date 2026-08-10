@@ -150,27 +150,18 @@ SmartHire is a job board and recruitment platform designed with a **production-o
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  src="https://github-stats-extended.vercel.app/api?username=devAhmed28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
   alt="GitHub Stats"
   height="165"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=devAhmed28&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-  height="165"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=devAhmed28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Top Languages"
+  height="165"
 />
 
 </div>
@@ -179,7 +170,7 @@ SmartHire is a job board and recruitment platform designed with a **production-o
 
 ## 📈 Activity Graph
 
-<div align="center">
+<div align="left">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=devAhmed28&theme=github-compact&hide_border=true&area=true"
