@@ -193,11 +193,11 @@ SmartHire is a job board and recruitment platform designed with a **production-o
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
+    src="https://github-profile-trophy-winning.vercel.app/?username=devAhmed28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
     alt="GitHub Trophies"
   />
 </a>
@@ -208,7 +208,7 @@ SmartHire is a job board and recruitment platform designed with a **production-o
 
 ## 📊 Contribution Stats
 
-<div align="center">
+<div align="left">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAhmed28&theme=tokyonight"
