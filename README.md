@@ -1,6 +1,6 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-# Ahmed Rabie
+# 👋 Ahmed Rabie
 
 ### Software Engineer | .NET Developer
 
@@ -9,9 +9,9 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/A7med_R3bie)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeva7med@gmail.com)
 
-&lt;img src="https://komarev.com/ghpvc/?username=devAhmed28&style=for-the-badge&color=512BD4" alt="Profile Views" /&gt;
+<img src="https://komarev.com/ghpvc/?username=devAhmed28&style=for-the-badge&color=512BD4" alt="Profile Views" />
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -28,47 +28,47 @@ I'm a Computer Science graduate based in **Cairo, Egypt**, specializing in **ASP
 
 ## 🛠️ Tech Stack
 
-&lt;div align="center"&gt;
+<div align="center">
 
 **Languages & Core**
 
-&lt;img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css" /&gt;
+<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css" />
 
 **Backend & Data**
 
-&lt;img src="https://skillicons.dev/icons?i=mysql,redis,postman" /&gt;
+<img src="https://skillicons.dev/icons?i=mysql,redis,postman" />
 
 **DevOps & Tools**
 
-&lt;img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions,visualstudio,vscode" /&gt;
+<img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions,visualstudio,vscode" />
 
-&lt;/div&gt;
+</div>
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/CQRS-0A66C2?style=flat-square" /&gt;
-  &lt;img src="https://img.shields.io/badge/MediatR-0A66C2?style=flat-square" /&gt;
-  &lt;img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square" /&gt;
-  &lt;img src="https://img.shields.io/badge/FluentValidation-0A66C2?style=flat-square" /&gt;
-  &lt;img src="https://img.shields.io/badge/SignalR-0A66C2?style=flat-square" /&gt;
-  &lt;img src="https://img.shields.io/badge/Hangfire-0A66C2?style=flat-square" /&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/CQRS-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MediatR-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FluentValidation-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SignalR-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hangfire-0A66C2?style=for-the-badge" />
+</p>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🚀 Featured Project
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;a href="https://github.com/devAhmed28/smarthire"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=devAhmed28&repo=smarthire&theme=radical&hide_border=true" alt="SmartHire" /&gt;
-&lt;/a&gt;
+<a href="https://github.com/devAhmed28/smarthire">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devAhmed28&repo=smarthire&theme=radical&hide_border=true" alt="SmartHire" />
+</a>
 
-&lt;/div&gt;
+</div>
 
 **SmartHire** — Recruitment REST API for the Egyptian market.
 
@@ -80,21 +80,51 @@ A job board and recruitment platform built with Clean Architecture across four p
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical&hide_border=true" alt="Streak Stats" height="165" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
+</div>
 
-&lt;div align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" alt="Top Languages" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAhmed28&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=radical&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 Contribution Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 📅 Total Contributions | 63 (Jan 6 - Present) |
+| 🔥 Current Streak | 2 days (Aug 9 - Aug 10) |
+| ⚡ Longest Streak | 3 days (Jul 2 - Jul 4) |
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🤝 Let's Connect
 
-&lt;sub&gt;Always happy to talk backend architecture, .NET, or opportunities in the MENA tech scene — reach out!&lt;/sub&gt;
+<sub>Always happy to talk backend architecture, .NET, or opportunities in the MENA tech scene — reach out!</sub>
 
-&lt;/div&gt;
+</div>
