@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ahmed Rabie
+# Hi, I'm Ahmed Rabie
 
-### Software Engineer | .NET Backend Developer
+### Software Engineer | .NET Developer
 
 I build maintainable, production-style backend systems using **C#, ASP.NET Core, clean architecture, and pragmatic engineering practices**.
 
