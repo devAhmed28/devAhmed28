@@ -35,7 +35,7 @@ I'm a **Computer Science graduate based in Cairo, Egypt**, focused on backend en
 
 I enjoy designing APIs that are easy to understand, test, extend, and operate. My approach favors **explicit code, clear boundaries, and practical architecture** over unnecessary abstraction.
 
-- 🎯 Looking for **.NET / Backend Engineer** opportunities in Egypt and the MENA region
+- 🎯 Looking for **.NET / Backend Engineer** opportunities
 - 🏗️ Building backend products for local use cases, including **recruitment and student housing**
 - 🧠 Strengthening my skills in **system design, EF Core, SQL, CQRS, and distributed systems**
 - 🤝 Open to connecting with **backend engineers, hiring teams, and recruiters**
