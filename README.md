@@ -1,14 +1,12 @@
 <div align="center">
   
 # Ahmed Rabie
-### Software Engineer · ASP.NET Core Backend Developer
+### Backend Software Engineer | ASP.NET Core
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://dev-ahmed.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rabie-abbas)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/A7med_R3bie)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeva7med@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=devAhmed28&style=for-the-badge&color=512BD4)
 
 </div>
 
@@ -16,14 +14,14 @@
 
 ### About Me
 
-Computer Science graduate based in Egypt, focused on building clean, maintainable, and production-ready backend systems with **ASP.NET Core**.
+Computer Science graduate based in Egypt, specializing in **ASP.NET Core** backend development.
 
-I specialize in designing RESTful APIs using **Clean Architecture**, **CQRS**, and **MediatR**, with an emphasis on explicit, readable code over clever abstractions. Currently deepening core backend fundamentals (system design, EF Core, SQL, authentication patterns) while shipping real products targeted at the Egyptian and broader MENA markets.
+I build production-ready APIs using **Clean Architecture**, **CQRS**, and **MediatR**, with a strong focus on writing clear, maintainable, and explicit code. Currently deepening my backend fundamentals while building real products for the Egyptian and MENA markets.
 
-- 🎯 Actively seeking backend roles at Egyptian & MENA-region tech companies  
-- 🏗️ Building practical products for local needs (recruitment platforms, student housing, etc.)  
-- 🌱 Structured learning track covering system design, advanced EF Core, SQL performance, and CQRS patterns  
-- 💬 Open to connecting with backend engineers, tech leads, and recruiters in the region  
+- 🎯 Looking for backend roles at Egyptian & MENA tech companies  
+- 🏗️ Building practical products (recruitment platforms, student housing solutions)  
+- 🌱 Actively studying system design, advanced EF Core, SQL performance, and CQRS patterns  
+- 💬 Open to connecting with backend developers and recruiters in the region  
 
 ---
 
@@ -37,12 +35,12 @@ I specialize in designing RESTful APIs using **Clean Architecture**, **CQRS**, a
 **Backend & Data**  
 <img src="https://skillicons.dev/icons?i=mysql,redis,postman" />
 
-**DevOps & Tooling**  
+**DevOps & Tools**  
 <img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions" />
 
 <br/>
 
-`CQRS` `MediatR` `EF Core` `JWT (Access + Refresh)` `FluentValidation` `SignalR` `Hangfire` `Redis` `Clean Architecture`
+`CQRS` `MediatR` `EF Core` `JWT Auth` `FluentValidation` `SignalR` `Hangfire` `Redis` `Clean Architecture`
 
 </div>
 
@@ -52,19 +50,19 @@ I specialize in designing RESTful APIs using **Clean Architecture**, **CQRS**, a
 
 #### [SmartHire](https://github.com/devAhmed28/smarthire) — Recruitment REST API
 
-A production-oriented job board and recruitment platform designed for the Egyptian market.
+A job board and recruitment platform built for the Egyptian market.
 
-**Key technical highlights:**
-- Clean Architecture across multiple projects
-- CQRS + MediatR for clear separation of commands and queries
-- JWT access/refresh token authentication with BCrypt
-- Real-time notifications via SignalR
-- Background job processing with Hangfire
-- Redis cache-aside pattern for performance
+**Highlights:**
+- Clean Architecture (multiple projects)
+- CQRS with MediatR
+- JWT Access + Refresh Token authentication (BCrypt)
+- Real-time notifications with SignalR
+- Background jobs using Hangfire
+- Redis (cache-aside pattern)
 - Cursor-based pagination
-- CI/CD pipeline to Railway using GitHub Actions
+- CI/CD to Railway via GitHub Actions
 
-**Tech:** `C#` · `.NET 8` · `EF Core` · `MediatR` · `FluentValidation` · `SQL Server` · `Redis` · `SignalR` · `Hangfire` · `Docker`
+**Stack:** `C#` · `.NET 8` · `EF Core` · `MediatR` · `FluentValidation` · `SQL Server` · `Redis` · `SignalR` · `Hangfire` · `Docker`
 
 ---
 
@@ -72,16 +70,16 @@ A production-oriented job board and recruitment platform designed for the Egypti
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" height="165" alt="Top Languages"/>
 </div>
 
 ---
 
 <div align="center">
   
-**Always open to conversations about backend architecture, .NET, Clean Architecture, or opportunities in the MENA tech ecosystem.**
+**Open to conversations about backend architecture, .NET, and opportunities in the MENA tech scene.**
 
-Feel free to reach out — let’s connect.
+Feel free to reach out!
 
 </div>
