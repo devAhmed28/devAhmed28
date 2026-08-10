@@ -1,7 +1,7 @@
 <div align="center">
 
-# Ahmed Rabie (devA7med)
-### .NET Backend Developer | Clean Architecture & CQRS | Building for the MENA Market
+# Ahmed Rabie 
+### Software Engineer | .NET  Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://dev-ahmed.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rabie-abbas)
