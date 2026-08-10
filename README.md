@@ -46,11 +46,7 @@ I enjoy designing APIs that are easy to understand, test, extend, and operate. M
 
 ### Languages & Frameworks
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css" alt="Languages and Frameworks">
-
-<br><br>
+<div align="left">
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8">
@@ -62,7 +58,7 @@ I enjoy designing APIs that are easy to understand, test, extend, and operate. M
 
 ### Backend & Data
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql,redis,postgres,postman" alt="Backend and Data">
 
@@ -87,7 +83,7 @@ I enjoy designing APIs that are easy to understand, test, extend, and operate. M
 
 ### ☁️ DevOps & Tools
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions,visualstudio,vscode" alt="DevOps and Tools">
 
@@ -112,14 +108,6 @@ I enjoy designing APIs that are easy to understand, test, extend, and operate. M
 
 SmartHire is a job board and recruitment platform designed with a **production-oriented backend architecture**.
 
-<div align="center">
-
-<a href="https://github.com/devAhmed28/SmartHire">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartHire">
-</a>
-
-</div>
-
 ### 🏗️ Architecture & Engineering
 
 - Clean Architecture across four projects
@@ -140,7 +128,7 @@ SmartHire is a job board and recruitment platform designed with a **production-o
 
 ### 🔧 Technologies
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8">
