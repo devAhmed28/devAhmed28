@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ahmed Rabie 👋
+# Hi, I'm Ahmed Rabie
 
 ## Software Engineer | .NET Developer
 
