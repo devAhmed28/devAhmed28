@@ -1,249 +1,151 @@
-# Hi, I'm Ahmed 👋
-
-### .NET Backend Developer | C# | ASP.NET Core | Clean Architecture
-
-I'm a Backend Developer focused on building **scalable, maintainable, and production-oriented Web APIs** using the .NET ecosystem.
-
-I enjoy designing backend systems with clean architecture, strong separation of concerns, and well-structured business logic.
+&lt;div align="center"&gt;
+  
+  &lt;!-- Header Banner --&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=200&section=header&text=Ahmed%20Rabie&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" /&gt;
+  
+  &lt;br&gt;
+  
+  &lt;!-- Animated Typing Header --&gt;
+  &lt;a href="https://git.io/typing-svg"&gt;
+    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+REST+APIs;Building+Scalable+Backend+Solutions" alt="Typing SVG" /&gt;
+  &lt;/a&gt;
+  
+  &lt;br&gt;&lt;br&gt;
+  
+  &lt;!-- Profile Views --&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=devAhmed28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
+  
+  &lt;br&gt;&lt;br&gt;
+  
+  &lt;!-- Social Badges --&gt;
+  &lt;a href="https://github.com/devAhmed28"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:deeva7med@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Specialized in **C# and ASP.NET Core**
-- 🏗️ Building applications using **Clean Architecture**
-- 🔄 Working with **CQRS and MediatR**
-- 🗄️ Experienced with **Entity Framework Core and SQL Server**
-- 🔐 Implementing **JWT Authentication & Authorization**
-- ☁️ Working with external services such as **Cloudinary**
-- 📦 Using **Repository Pattern and Unit of Work**
-- 🧩 Designing RESTful APIs and modular backend systems
-- 🌱 Currently improving my skills in **Testing, Docker, CI/CD, and Deployment**
+I'm **Ahmed Rabie**, a passionate **.NET Backend Developer** based in **Cairo, Egypt**. I'm currently pursuing my **Bachelor of Computer Science** at South Valley National University (SVNU) with a GPA of **3.13/4.00**.
+
+I specialize in building **scalable RESTful APIs** using modern .NET technologies, following **Clean Architecture**, **CQRS**, **Repository Pattern**, and **SOLID Principles**. I write clean, maintainable code and I'm always eager to tackle complex backend challenges.
+
+- 🔭 Currently working on **SmartHire – Job Recruitment Platform**
+- 🌱 Learning **Cloud Architecture & Microservices**
+- 👯 Open to collaborating on **Open Source .NET Projects**
+- 💬 Ask me about **ASP.NET Core, Clean Architecture, EF Core, RESTful APIs**
+- 📫 Reach me at **deeva7med@gmail.com**
+- ⚡ Fun fact: I mentor students in competitive programming at **ICPC SVNU Community**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Architecture & Patterns
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A0A?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-FF6F00?style=for-the-badge)
-![MediatR](https://img.shields.io/badge/MediatR-68217A?style=for-the-badge)
-
-### Database
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Authentication & APIs
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-### Tools & Services
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+`Clean Architecture` • `CQRS` • `Repository Pattern` • `Unit of Work` • `SOLID Principles` • `OOP` • `JWT Authentication` • `Role-Based Authorization` • `Refresh Tokens`
 
 ---
 
-# ⭐ Featured Project
+## 📊 GitHub Stats
 
-## SmartHire
-
-**SmartHire** is a recruitment platform backend built with **ASP.NET Core** and designed using **Clean Architecture** principles.
-
-The platform supports the complete recruitment workflow between candidates and companies.
-
-### 🔹 Core Features
-
-- 🔐 Authentication
-  - Register
-  - Login
-  - Refresh Token
-  - Logout
-
-- 👤 User Profile
-  - Get Profile
-  - Update Profile
-  - Change Password
-
-- 🏢 Company Management
-  - Company Profile
-  - Company Management
-
-- 💼 Job Management
-  - Create Jobs
-  - Update Jobs
-  - Delete Jobs
-  - Search Jobs
-  - Publish Jobs
-  - Close Jobs
-
-- 👨‍💻 Candidate Management
-  - Candidate Profile
-  - Skills
-  - Saved Jobs
-
-- 📄 Job Applications
-  - Apply for Jobs
-  - Track Applications
-  - Update Application Status
-  - Withdraw Applications
-
-- 📅 Interviews
-  - Schedule Interviews
-  - Manage Interview Status
-  - Candidate & Company Interview Views
-
-- 💰 Offers
-  - Send Offers
-  - Accept Offers
-  - Reject Offers
-  - Manage Offers
-
-- 🔔 Notifications
-  - Read Notifications
-  - Unread Count
-  - Mark as Read
-  - Mark All as Read
-
-- ⭐ Reviews
-  - Create Reviews
-  - Update Reviews
-  - Delete Reviews
-  - Company Reviews
-
-- ☁️ File Upload
-  - CV Upload
-  - Profile Images
-  - Company Logos
-  - Cloudinary Integration
-
-- 🛡️ Admin Features
-  - Platform Management
-  - User Management
-  - Company Management
-  - Job Moderation
-  - Dashboard Statistics
+&lt;div align="center"&gt;
+  
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /&gt;
+  
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /&gt;
+  
+&lt;/div&gt;
 
 ---
 
-## 🏗️ Architecture
+## 🚀 Featured Project
 
-SmartHire follows **Clean Architecture** with clear separation between business logic and infrastructure concerns.
+### SmartHire – Job Recruitment Platform
 
-```text
-SmartHire
-│
-├── Domain
-│   ├── Entities
-│   ├── Enums
-│   └── Business Rules
-│
-├── Application
-│   ├── Features
-│   ├── DTOs
-│   ├── CQRS
-│   ├── MediatR
-│   ├── Validators
-│   └── Interfaces
-│
-├── Infrastructure
-│   ├── Persistence
-│   ├── Entity Framework Core
-│   ├── Repositories
-│   ├── Unit of Work
-│   ├── Authentication
-│   └── External Services
-│
-└── API
-    ├── Controllers
-    ├── Middleware
-    ├── Authentication
-    └── Swagger
-```
+A full-featured job recruitment platform built with modern .NET backend practices.
+
+**Key Highlights:**
+- 🚀 Developed **120+ RESTful API endpoints** using **ASP.NET Core Web API** following REST principles
+- 🏗️ Implemented **Clean Architecture**, **CQRS**, **Repository Pattern**, and **Unit of Work** for scalable development
+- 🔐 Built **JWT Authentication**, **Refresh Tokens**, and **Role-Based Authorization** supporting Admin, Company, and Candidate roles
+- 🗄️ Designed a normalized **SQL Server database** with **14+ entities** using **Entity Framework Core** and **Fluent API**
+
+**Tech Stack:** `ASP.NET Core Web API` `C#` `.NET` `Entity Framework Core` `SQL Server` `Clean Architecture` `CQRS` `MediatR` `FluentValidation` `AutoMapper` `Swagger/OpenAPI` `Git`
 
 ---
 
-## 🔑 Engineering Practices
+## 🎓 Education
 
-Some of the practices I'm applying in my projects:
-
-- Clean Architecture
-- SOLID principles
-- CQRS
-- MediatR
-- Repository Pattern
-- Unit of Work
-- Dependency Injection
-- Global Exception Handling
-- Result Pattern
-- JWT Authentication
-- Role-Based Authorization
-- FluentValidation
-- Entity Framework Core
-- RESTful API design
-- Git feature-branch workflow
+### Bachelor of Computer Science
+**South Valley National University (SVNU)** — Qena, Egypt  
+*September 2022 – July 2026*  
+- **GPA:** 3.13 / 4.00
+- **Relevant Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Database Systems, Operating Systems, Computer Networks, Software Engineering
 
 ---
 
-## 📈 Current Learning Path
+## 📜 Certifications
 
-I'm continuously improving my backend engineering skills, currently focusing on:
-
-```text
-ASP.NET Core
-      ↓
-Clean Architecture
-      ↓
-CQRS + MediatR
-      ↓
-Advanced Authentication & Authorization
-      ↓
-Testing
-      ↓
-Docker
-      ↓
-CI/CD
-      ↓
-Cloud & Deployment
-```
+### Ultimate ASP.NET Core — Udemy
+Comprehensive training covering:
+- ASP.NET Core Web API & RESTful API development
+- Entity Framework Core & Database Design
+- Authentication & Authorization
+- Dependency Injection & Middleware
+- Backend development best practices
 
 ---
 
-## 🎯 Goals
+## 👨‍🏫 Leadership Experience
 
-My goal is to become a strong **Backend Engineer** capable of designing and developing reliable, scalable backend systems using the .NET ecosystem.
-
-I'm particularly interested in:
-
-- Backend Architecture
-- Distributed Systems
-- API Design
-- Database Design
-- Performance Optimization
-- Cloud Infrastructure
-- Software Engineering Best Practices
+### Programming Mentor — ICPC SVNU Community
+- Mentored students in **competitive programming** and **problem-solving techniques**
+- Conducted sessions on **algorithms**, **data structures**, and programming fundamentals
+- Helped students improve **analytical thinking** and coding skills for ICPC-style competitions
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Languages
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-📧 **Email:** YOUR_EMAIL
+| Language | Proficiency |
+|----------|-------------|
+| 🇪🇬 Arabic | Native |
+| 🇬🇧 English | Intermediate (B1+) |
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+&lt;div align="center"&gt;
+  
+  &lt;br&gt;
+  
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=120&section=footer" alt="footer" /&gt;
+  
+&lt;/div&gt;
