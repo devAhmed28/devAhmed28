@@ -1,159 +1,135 @@
-&lt;div align="center"&gt;
-  
-  &lt;!-- Header Banner --&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=200&section=header&text=Ahmed%20Rabie&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" /&gt;
-  
-  &lt;br&gt;
-  
-  &lt;!-- Animated Typing Header --&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+REST+APIs;Building+Scalable+Backend+Solutions" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-  
-  &lt;br&gt;&lt;br&gt;
-  
-  &lt;!-- Profile Views --&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=devAhmed28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
-  
-  &lt;br&gt;&lt;br&gt;
-  
-  &lt;!-- Social Badges --&gt;
-  &lt;a href="https://github.com/devAhmed28"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:deeva7med@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
+# 👋 Hi, I'm Ahmed Rabie
 
----
+## 🚀 Software Engineer | .NET Developer
 
-## 🧑‍💻 About Me
-
-I'm **Ahmed Rabie**, a passionate **.NET Backend Developer** based in **Cairo, Egypt**. I'm currently pursuing my **Bachelor of Computer Science** at South Valley National University (SVNU) with a GPA of **3.13/4.00**.
-
-I specialize in building **scalable RESTful APIs** using modern .NET technologies, following **Clean Architecture**, **CQRS**, **Repository Pattern**, and **SOLID Principles**. I write clean, maintainable code and I'm always eager to tackle complex backend challenges.
-
-- 🔭 Currently working on **SmartHire – Job Recruitment Platform**
-- 🌱 Learning **Cloud Architecture & Microservices**
-- 👯 Open to collaborating on **Open Source .NET Projects**
-- 💬 Ask me about **ASP.NET Core, Clean Architecture, EF Core, RESTful APIs**
-- 📫 Reach me at **deeva7med@gmail.com**
-- ⚡ Fun fact: I mentor students in competitive programming at **ICPC SVNU Community**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
-![FluentValidation](https://img.shields.io/badge/FluentValidation-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Architecture & Patterns
-`Clean Architecture` • `CQRS` • `Repository Pattern` • `Unit of Work` • `SOLID Principles` • `OOP` • `JWT Authentication` • `Role-Based Authorization` • `Refresh Tokens`
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /&gt;
-  
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /&gt;
-  
-  &lt;br&gt;&lt;br&gt;
-  
-  &lt;img src="https://streak-stats.demolab.com?user=devAhmed28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" /&gt;
-  
-  &lt;br&gt;&lt;br&gt;
-  
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" width="90%" /&gt;
-  
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanOkeil&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalrahmanOkeil&theme=radical" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanOkeil&theme=radical&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
-## 🚀 Featured Project
+## 🏆 GitHub Trophies
 
-### SmartHire – Job Recruitment Platform
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdalrahmanOkeil&theme=radical&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-A full-featured job recruitment platform built with modern .NET backend practices.
+### Achievements Breakdown
 
-**Key Highlights:**
-- 🚀 Developed **120+ RESTful API endpoints** using **ASP.NET Core Web API** following REST principles
-- 🏗️ Implemented **Clean Architecture**, **CQRS**, **Repository Pattern**, and **Unit of Work** for scalable development
-- 🔐 Built **JWT Authentication**, **Refresh Tokens**, and **Role-Based Authorization** supporting Admin, Company, and Candidate roles
-- 🗄️ Designed a normalized **SQL Server database** with **14+ entities** using **Entity Framework Core** and **Fluent API**
-
-**Tech Stack:** `ASP.NET Core Web API` `C#` `.NET` `Entity Framework Core` `SQL Server` `Clean Architecture` `CQRS` `MediatR` `FluentValidation` `AutoMapper` `Swagger/OpenAPI` `Git`
-
----
-
-## 🎓 Education
-
-### Bachelor of Computer Science
-**South Valley National University (SVNU)** — Qena, Egypt  
-*September 2022 – July 2026*  
-- **GPA:** 3.13 / 4.00
-- **Relevant Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Database Systems, Operating Systems, Computer Networks, Software Engineering
+| Achievement | Status | Points |
+|-------------|--------|--------|
+| 🏅 Commits | Middle Committer | 38pt |
+| 💼 Experience | Junior Dev | 6pt |
+| 📁 Repositories | First Repository | 8pt |
+| ⭐ Stars | Unknown | 0pt |
+| 👥 Followers | Unknown | 0pt |
+| 🐛 Issues | Unknown | 0pt |
+| 🔀 Pull Requests | Unknown | 0pt |
 
 ---
 
-## 📜 Certifications
+## 📈 Activity Overview
 
-### Ultimate ASP.NET Core — Udemy
-Comprehensive training covering:
-- ASP.NET Core Web API & RESTful API development
-- Entity Framework Core & Database Design
-- Authentication & Authorization
-- Dependency Injection & Middleware
-- Backend development best practices
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdalrahmanOkeil&theme=radical" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
-## 👨‍🏫 Leadership Experience
+## 🛠️ Technical Skills & Tools
 
-### Programming Mentor — ICPC SVNU Community
-- Mentored students in **competitive programming** and **problem-solving techniques**
-- Conducted sessions on **algorithms**, **data structures**, and programming fundamentals
-- Helped students improve **analytical thinking** and coding skills for ICPC-style competitions
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>💻 Languages</strong></td>
+      <td>C++ • C# • JavaScript • HTML5 • CSS3</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🚀 Frameworks</strong></td>
+      <td>.NET • ASP.NET Core • Bootstrap</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🛠️ Tools</strong></td>
+      <td>Git • GitHub • Visual Studio • VS Code</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📦 Databases</strong></td>
+      <td>SQL Server • MySQL</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌍 Languages
+## 📊 Contribution Stats
 
-| Language | Proficiency |
-|----------|-------------|
-| 🇪🇬 Arabic | Native |
-| 🇬🇧 English | Intermediate (B1+) |
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 📅 Total Contributions | 50 (Oct 24, 2024 - Present) |
+| 🔥 Current Streak | 0 days (Aug 9) |
+| ⚡ Longest Streak | 3 days (May 28 - May 30) |
+
+</div>
 
 ---
 
-&lt;div align="center"&gt;
-  
-  &lt;br&gt;
-  
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=120&section=footer" alt="footer" /&gt;
-  
-&lt;/div&gt;
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdalrahmanokeil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AbdalrahmanOkeil">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:abdalrahman.okeil@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+## 📝 About Me
+
+I'm a passionate Software Engineer specializing in .NET development. I love building scalable applications and continuously learning new technologies. Currently exploring cloud computing and microservices architecture.
+
+- 🌱 I'm currently learning: **Azure Cloud Services**
+- 💬 Ask me about: **.NET, C#, Web Development**
+- ⚡ Fun fact: **I love solving coding challenges**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdalrahmanOkeil&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>💻 "Code is poetry in motion"</i>
+  <br/><br/>
+  <i>⭐ Feel free to explore my repositories and connect with me! ⭐</i>
+</div>
