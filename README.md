@@ -82,6 +82,14 @@ I specialize in building **scalable RESTful APIs** using modern .NET technologie
   
   &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /&gt;
   
+  &lt;br&gt;&lt;br&gt;
+  
+  &lt;img src="https://streak-stats.demolab.com?user=devAhmed28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" /&gt;
+  
+  &lt;br&gt;&lt;br&gt;
+  
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" width="90%" /&gt;
+  
 &lt;/div&gt;
 
 ---
