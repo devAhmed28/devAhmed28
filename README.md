@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmed Rabie 👋
 
-## Software Engineer | .NET Developer | Full Stack
+## Software Engineer | .NET Developer
 
 <p>
   <a href="https://github.com/devAhmed28/smarthire">
@@ -65,35 +65,35 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=radical&count_private=true" alt="Ahmed Rabie's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical" alt="Ahmed Rabie's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact" alt="Ahmed Rabie's Top Languages" />
+</div>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=radical&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=radical&row=2&column=4" alt="Ahmed Rabie's GitHub Trophies" />
 </div>
 
 #### Achievements Breakdown
 
-| Achievement | Status | Points |
-|-------------|--------|--------|
-| 🏅 Commits | God Committer | - |
-| ⭐ Stars | High Stargazer | - |
-| 🔀 Pull Requests | God Puller | - |
-| 👥 Followers | Suner Celebrity | - |
-| 📁 Repositories | Hyner Bano Creator | - |
-| 🐛 Issues | High Issuer | - |
-| 💼 Experience | Intermediate Day | - |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact" alt="Top Languages" />
-</div>
+| Achievement | Status |
+|-------------|--------|
+| 🏅 Commits | God Committer |
+| ⭐ Stars | High Stargazer |
+| 🔀 Pull Requests | God Puller |
+| 👥 Followers | Suner Celebrity |
+| 📁 Repositories | Hyner Bano Creator |
+| 🐛 Issues | High Issuer |
+| 💼 Experience | Intermediate Day |
 
 ---
 
@@ -114,7 +114,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAhmed28&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAhmed28&theme=radical" alt="Ahmed Rabie's GitHub Activity Graph" />
 </div>
 
 ---
