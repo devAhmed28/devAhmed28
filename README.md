@@ -1,85 +1,100 @@
-<div align="center">
-  
+&lt;div align="center"&gt;
+
 # Ahmed Rabie
-### Backend Software Engineer | ASP.NET Core
+
+### Software Engineer | .NET Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://dev-ahmed.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rabie-abbas)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/A7med_R3bie)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeva7med@gmail.com)
 
-</div>
+&lt;img src="https://komarev.com/ghpvc/?username=devAhmed28&style=for-the-badge&color=512BD4" alt="Profile Views" /&gt;
+
+&lt;/div&gt;
 
 ---
 
-### About Me
+## 👋 About Me
 
-Computer Science graduate based in Egypt, specializing in **ASP.NET Core** backend development.
+I'm a Computer Science graduate based in **Cairo, Egypt**, specializing in **ASP.NET Core backend development**. I build production-style APIs using Clean Architecture, CQRS, and MediatR — with a focus on writing code that's explicit and maintainable rather than clever.
 
-I build production-ready APIs using **Clean Architecture**, **CQRS**, and **MediatR**, with a strong focus on writing clear, maintainable, and explicit code. Currently deepening my backend fundamentals while building real products for the Egyptian and MENA markets.
-
-- 🎯 Looking for backend roles at Egyptian & MENA tech companies  
-- 🏗️ Building practical products (recruitment platforms, student housing solutions)  
-- 🌱 Actively studying system design, advanced EF Core, SQL performance, and CQRS patterns  
-- 💬 Open to connecting with backend developers and recruiters in the region  
+- 🎯 Currently targeting backend roles at **Egyptian & MENA-region tech companies**
+- 🏗️ Building products for local markets — student housing, job recruitment
+- 🌱 Deep in a structured .NET/backend interview-prep track (system design, EF Core, SQL, CQRS)
+- 💬 Open to connecting with other backend devs and recruiters in the region
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+&lt;div align="center"&gt;
 
-**Languages & Runtime**  
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js" />
+**Languages & Core**
 
-**Backend & Data**  
-<img src="https://skillicons.dev/icons?i=mysql,redis,postman" />
+&lt;img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css" /&gt;
 
-**DevOps & Tools**  
-<img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions" />
+**Backend & Data**
 
-<br/>
+&lt;img src="https://skillicons.dev/icons?i=mysql,redis,postman" /&gt;
 
-`CQRS` `MediatR` `EF Core` `JWT Auth` `FluentValidation` `SignalR` `Hangfire` `Redis` `Clean Architecture`
+**DevOps & Tools**
 
-</div>
+&lt;img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions,visualstudio,vscode" /&gt;
 
----
+&lt;/div&gt;
 
-### Featured Project
+&lt;div align="center"&gt;
 
-#### [SmartHire](https://github.com/devAhmed28/smarthire) — Recruitment REST API
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/CQRS-0A66C2?style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/badge/MediatR-0A66C2?style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/badge/FluentValidation-0A66C2?style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/badge/SignalR-0A66C2?style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/badge/Hangfire-0A66C2?style=flat-square" /&gt;
+&lt;/p&gt;
 
-A job board and recruitment platform built for the Egyptian market.
-
-**Highlights:**
-- Clean Architecture (multiple projects)
-- CQRS with MediatR
-- JWT Access + Refresh Token authentication (BCrypt)
-- Real-time notifications with SignalR
-- Background jobs using Hangfire
-- Redis (cache-aside pattern)
-- Cursor-based pagination
-- CI/CD to Railway via GitHub Actions
-
-**Stack:** `C#` · `.NET 8` · `EF Core` · `MediatR` · `FluentValidation` · `SQL Server` · `Redis` · `SignalR` · `Hangfire` · `Docker`
+&lt;/div&gt;
 
 ---
 
-### GitHub Stats
+## 🚀 Featured Project
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" height="165" alt="Top Languages"/>
-</div>
+&lt;div align="center"&gt;
+
+&lt;a href="https://github.com/devAhmed28/smarthire"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=devAhmed28&repo=smarthire&theme=radical&hide_border=true" alt="SmartHire" /&gt;
+&lt;/a&gt;
+
+&lt;/div&gt;
+
+**SmartHire** — Recruitment REST API for the Egyptian market.
+
+A job board and recruitment platform built with Clean Architecture across four projects, CQRS via MediatR, JWT access/refresh auth with BCrypt, SignalR for real-time notifications, Hangfire for background jobs, Redis (cache-aside) for performance, cursor-based pagination, and CI/CD to Railway via GitHub Actions.
+
+`C#` `.NET 8` `EF Core` `MediatR` `FluentValidation` `SQL Server` `Redis` `SignalR` `Hangfire` `Docker`
 
 ---
 
-<div align="center">
-  
-**Open to conversations about backend architecture, .NET, and opportunities in the MENA tech scene.**
+## 📊 GitHub Stats
 
-Feel free to reach out!
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical&hide_border=true" alt="Streak Stats" height="165" /&gt;
+&lt;/div&gt;
 
-</div>
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" alt="Top Languages" /&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div align="center"&gt;
+
+### 🤝 Let's Connect
+
+&lt;sub&gt;Always happy to talk backend architecture, .NET, or opportunities in the MENA tech scene — reach out!&lt;/sub&gt;
+
+&lt;/div&gt;
