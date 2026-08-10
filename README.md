@@ -1,130 +1,145 @@
 <div align="center">
 
-# 👋 Ahmed Rabie
+# Ahmed Rabie
 
-### Software Engineer | .NET Developer
+### Software Engineer | .NET Backend Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://dev-ahmed.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rabie-abbas)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/A7med_R3bie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeva7med@gmail.com)
+I build maintainable, production-style backend systems with **C# / ASP.NET Core**, clean architecture, and pragmatic engineering practices.
 
-<img src="https://komarev.com/ghpvc/?username=devAhmed28&style=for-the-badge&color=512BD4" alt="Profile Views" />
+<p>
+  <a href="https://dev-ahmed.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-rabie-abbas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/A7med_R3bie">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:deeva7med@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<img
+  src="https://komarev.com/ghpvc/?username=devAhmed28&style=flat-square&color=512BD4"
+  alt="Profile views"
+/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate based in **Cairo, Egypt**, specializing in **ASP.NET Core backend development**. I build production-style APIs using Clean Architecture, CQRS, and MediatR — with a focus on writing code that's explicit and maintainable rather than clever.
+I'm a **Computer Science graduate based in Cairo, Egypt**, focused on backend engineering with the .NET ecosystem.
 
-- 🎯 Currently targeting backend roles at **Egyptian & MENA-region tech companies**
-- 🏗️ Building products for local markets — student housing, job recruitment
-- 🌱 Deep in a structured .NET/backend interview-prep track (system design, EF Core, SQL, CQRS)
-- 💬 Open to connecting with other backend devs and recruiters in the region
+I enjoy designing APIs that are easy to understand, test, extend, and operate. My approach favors **explicit code, clear boundaries, and practical architecture** over unnecessary abstraction.
+
+- 🎯 Looking for **.NET / Backend Engineer** opportunities in Egypt and the MENA region
+- 🏗️ Building backend products for local use cases, including recruitment and student housing
+- 🧠 Strengthening my skills in **system design, EF Core, SQL, CQRS, and distributed systems**
+- 🤝 Open to connecting with backend engineers, hiring teams, and recruiters
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,postman" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions,visualstudio,vscode" />
-
-</div>
-
-<div align="center">
+### Languages & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/CQRS-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MediatR-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FluentValidation-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SignalR-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hangfire-0A66C2?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css" alt="C#, .NET, C++, JavaScript, HTML, CSS" />
 </p>
 
-</div>
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,redis,mysql,postgres,postman" alt=".NET, Redis, MySQL, PostgreSQL, Postman" />
+</p>
+
+<p>
+  <img
+    src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt="ASP.NET Core"
+  />
+  <img
+    src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt="Entity Framework Core"
+  />
+  <img
+    src="https://img.shields.io/badge/CQRS-0A66C2?style=for-the-badge"
+    alt="CQRS"
+  />
+  <img
+    src="https://img.shields.io/badge/MediatR-0A66C2?style=for-the-badge"
+    alt="MediatR"
+  />
+  <img
+    src="https://img.shields.io/badge/FluentValidation-0A66C2?style=for-the-badge"
+    alt="FluentValidation"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-111111?style=for-the-badge"
+    alt="JWT"
+  />
+  <img
+    src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt="SignalR"
+  />
+  <img
+    src="https://img.shields.io/badge/Hangfire-0A66C2?style=for-the-badge"
+    alt="Hangfire"
+  />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=docker,git,githubactions,azure,visualstudio,vscode"
+    alt="Docker, Git, GitHub Actions, Azure, Visual Studio, VS Code"
+  />
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-<div align="center">
+### SmartHire
 
-<a href="https://github.com/devAhmed28/smarthire">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devAhmed28&repo=smarthire&theme=radical&hide_border=true" alt="SmartHire" />
+**Recruitment REST API built for the Egyptian market.**
+
+<a href="https://github.com/devAhmed28/SmartHire">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=devAhmed28&repo=SmartHire&theme=tokyonight&hide_border=true"
+    alt="SmartHire repository"
+  />
 </a>
 
-</div>
+SmartHire is a job board and recruitment platform designed with a
+production-oriented backend architecture.
 
-**SmartHire** — Recruitment REST API for the Egyptian market.
+### 🏗️ Architecture & Engineering
 
-A job board and recruitment platform built with Clean Architecture across four projects, CQRS via MediatR, JWT access/refresh auth with BCrypt, SignalR for real-time notifications, Hangfire for background jobs, Redis (cache-aside) for performance, cursor-based pagination, and CI/CD to Railway via GitHub Actions.
+- Clean Architecture across four projects
+- CQRS with MediatR
+- RESTful API design
+- Cursor-based pagination
+- JWT access/refresh token authentication
+- BCrypt password hashing
+- FluentValidation for request validation
+- Entity Framework Core
+- SQL Server
+- Redis cache-aside strategy
+- SignalR real-time notifications
+- Hangfire background processing
+- Dockerized development
+- GitHub Actions CI/CD
+- Railway deployment
 
-`C#` `.NET 8` `EF Core` `MediatR` `FluentValidation` `SQL Server` `Redis` `SignalR` `Hangfire` `Docker`
+### 🔧 Technologies
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAhmed28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAhmed28&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAhmed28&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAhmed28&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=radical&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 Contribution Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 📅 Total Contributions | 63 (Jan 6 - Present) |
-| 🔥 Current Streak | 2 days (Aug 9 - Aug 10) |
-| ⚡ Longest Streak | 3 days (Jul 2 - Jul 4) |
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<sub>Always happy to talk backend architecture, .NET, or opportunities in the MENA tech scene — reach out!</sub>
-
-</div>
+```text
+C# · .NET 8 · ASP.NET Core · EF Core · MediatR
+FluentValidation · SQL Server · Redis · SignalR
+Hangfire · Docker · GitHub Actions · Railway
