@@ -196,7 +196,7 @@ SmartHire is a job board and recruitment platform designed with a **production-o
 <div align="left">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=devAhmed28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
+  src="https://trophy.ryglcloud.net/?username=devAhmed28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
   alt="GitHub Trophies"
 />
 
