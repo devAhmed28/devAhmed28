@@ -28,7 +28,7 @@
     <!-- <a href="">
       <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/>
     </a> &nbsp; -->
-    <a href="https://codeforces.com/profile/_Abdoo_Salah_">
+    <a href="https://codeforces.com/profile/_Muslim_">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/>
     </a>
   </p>
@@ -37,11 +37,11 @@
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,bootstrap,postman,swagger,git,azure&perline=6" style="height:105px;"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=AbdalrahmanOkeil&theme=highcontrast" height="105"/>
+    <img src="https://streak-stats.demolab.com/?user=devAhmed28&theme=highcontrast" height="105"/>
   </p>
 
   ### 🏆 GitHub Trophies
   
   <p align="center">
-    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=AbdalrahmanOkeil&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=devAhmed28&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
