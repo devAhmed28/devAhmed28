@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abd Alrahman Okeil</h1>
+<h1 align="center">Hi, I'm Ahmed Rabie</h1>
 <h2 align="center">Software Engineer | .NET Developer</h2>
 
 <div align="center">
@@ -13,10 +13,10 @@
 
   ### 📤 My Social Accounts
   <p align="left">
-    <a href="mailto:abdalrahmanokeil@gmail.com">
+    <a href="mailto:deeva7med@gmail.com">
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="50"/>
     </a> &nbsp;
-    <a href="https://www.linkedin.com/in/AbdAlrahmanOkeil">
+    <a href="https://www.linkedin.com/in/ahmed-rabie-abbas">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
     </a> &nbsp;
     <a href="https://wa.me/201019214705" target="_blank">
